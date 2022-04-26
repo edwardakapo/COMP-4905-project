@@ -2,7 +2,9 @@ Oluwademilade Edward Akapo \
 101095403 \
 COMP 4905 honours project
 
-Instructions on how to run project after downloading and extracting folders 
+Instructions on how to run project after downloading and extracting folders
+
+Open project folder in VScode
 
 ### `First npm install`
 
